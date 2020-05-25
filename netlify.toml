@@ -5,13 +5,11 @@
   YARN_VERSION = "1.3.2"
   YARN_FLAGS = "--no-ignore-optional"
   
-  [[headers]]
+[[headers]]
   for = "/*"
   [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block
-  	cache-control = '''
-	  max-age=0,
-  	no-cache,
-  	no-store,
-	 must-revalidate'''
+	cache-control = '''
+	max-age=0,
+	no-cache,
+	no-store,
+	must-revalidate'''
