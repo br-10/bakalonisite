@@ -6,7 +6,7 @@ description: Die großen Herausforderungen der Zeit scheinen nicht bewältigbar.
 ---
 
 
-# Die Frage an die Funktion des Eigentum
+# Die Frage an die Funktion des Eigentum ist die wichtigste gesellschaftliche Frage
 
 Diese Frage ist die zentrale überhaupt, wenn man über die Gesellschaft nachdenkt, über den Menschen, über Vergangenheit und Zukunft, über die ökologische Frage, über das Überleben der Menschheit.
 
