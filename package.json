@@ -56,7 +56,8 @@
     "jquery": ">=3.5.0",
     "minimist": ">=1.2.3",
     "websocket-extensions": ">=0.1.4",
-    "graphql-playground-html": ">=1.6.22"
+    "graphql-playground-html": ">=1.6.22",
+    "lodash.mergewith": ">=4.6.2",
 
   },
   "repository": "https://github.com/br-10/bakaloni.git"
