@@ -58,6 +58,7 @@
     "websocket-extensions": ">=0.1.4",
     "graphql-playground-html": ">=1.6.22",
     "lodash.mergewith": ">=4.6.2",
+    "http-proxy":">=1.18.1",
 
   },
   "repository": "https://github.com/br-10/bakaloni.git"
