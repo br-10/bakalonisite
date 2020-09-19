@@ -60,6 +60,7 @@
     "lodash.mergewith": ">=4.6.2",
     "http-proxy":">=1.18.1",
     "elliptic":">=6.5.3",
+     "node-forge": ">=0.10.0",
 
   },
   "repository": "https://github.com/br-10/bakaloni.git"
